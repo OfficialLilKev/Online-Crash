@@ -1,4 +1,4 @@
-# Crash Game - Spinsala
+# Crash Game
 
 Welcome to **Crash Game -**, an exciting game where players bet on how high a multiplier will go before it crashes! Test your luck by placing your bets, watch the rocket soar, and cash out before the multiplier crashes for big winnings.
 
