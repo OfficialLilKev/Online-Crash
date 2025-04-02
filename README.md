@@ -1,6 +1,6 @@
 # Crash Game - Spinsala
 
-Welcome to **Crash Game - Spinsala**, an exciting game where players bet on how high a multiplier will go before it crashes! Test your luck by placing your bets, watch the rocket soar, and cash out before the multiplier crashes for big winnings.
+Welcome to **Crash Game -**, an exciting game where players bet on how high a multiplier will go before it crashes! Test your luck by placing your bets, watch the rocket soar, and cash out before the multiplier crashes for big winnings.
 
 ## Features
 - **Dynamic Multiplier:** Watch the multiplier increase and decide when to cash out. But be careful, as the rocket could crash at any moment!
